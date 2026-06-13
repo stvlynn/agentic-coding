@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup runtime
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+
+      - name: Install dependencies
+        run: echo 'Replace with install command'
+
+      - name: Lint
+        run: echo 'Replace with lint command'
+
+      - name: Type check
+        run: echo 'Replace with typecheck command'
+
+      - name: Test
+        run: echo 'Replace with test command'

@@ -1,0 +1,17 @@
+{
+  "name": "agentic-coding-template",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Language- and framework-agnostic template for agent-driven projects.",
+  "scripts": {
+    "check": "echo 'Replace with typecheck + lint + test commands'",
+    "test": "echo 'Replace with test runner command'",
+    "lint": "echo 'Replace with linter command'",
+    "format": "echo 'Replace with formatter command'",
+    "docs:check": "echo 'Replace with markdown link checker command'"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "packageManager": "pnpm@9.0.0"
+}
