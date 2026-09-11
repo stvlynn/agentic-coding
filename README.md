@@ -11,7 +11,7 @@ Any agent that opens this repository should start with **`AGENTS.md`** (or `CLAU
 - [`docs/frontend/`](docs/frontend/README.md) — **Feature-Sliced Design (FSD)** conventions.
 - [`docs/backend/`](docs/backend/README.md) — **Domain-Driven Design (DDD)** layered conventions.
 - [`docs/operations/`](docs/operations/README.md) — development, CI/CD, and deployment guides.
-- [`docs/quality/`](docs/quality/README.md) — testing and code-review expectations.
+- [`docs/quality/`](docs/quality/README.md) — testing, code-review expectations, and Agent Skills.
 - [`docs/decisions/`](docs/decisions/README.md) — architecture decision records (ADRs).
 - [`deploy/`](deploy/README.md) — deployment assets (Docker, Kubernetes) to be adjusted per project.
 

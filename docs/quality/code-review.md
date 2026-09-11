@@ -13,6 +13,7 @@
 - [ ] Is all code and commentary in English?
 - [ ] Are there no hardcoded strings?
 - [ ] Is there no redundant UI copy?
+- [ ] Does frontend UI follow the installed craft skills (motion, polish, no AI slop)?
 - [ ] Is there no duplicated logic that could be extracted?
 - [ ] Is there no fallback/clever bypass logic?
 

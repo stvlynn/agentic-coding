@@ -66,6 +66,16 @@ import { t } from 'shared/i18n';
 - Set `min-height: 0` on every flex container that participates in the scroll chain.
 - The page root should fill the viewport (`min-h-dvh` / `h-dvh`).
 
+## Agent skills
+
+When building or reviewing UI, apply the project Agent Skills in [`.agents/skills/`](../../.agents/skills/). See [`docs/quality/agent-skills.md`](../quality/agent-skills.md) for the catalog.
+
+- `make-interfaces-feel-better` and `emil-design-eng` for polish, motion, and detail work.
+- `kill-ai-slop` when the UI or copy looks generic, templated, or machine-default.
+- `animate` / `review-animations` / `improve-animations` when adding or auditing motion.
+
+Do not introduce a second styling system just to apply a polish fix. Express the change in the project's existing tokens and FSD layers.
+
 ## Accessibility
 
 - Use semantic HTML (`button`, `a`, `label`, `nav`, `main`).

@@ -11,6 +11,7 @@ This section defines how the frontend is organized using **Feature-Sliced Design
 - [`public-api.md`](public-api.md) — public API and re-export rules.
 - [`import-rules.md`](import-rules.md) — cross-layer and cross-slice import rules.
 - [`ui-patterns.md`](ui-patterns.md) — semantic styling, no hardcoded copy, no redundant copy.
+- [`../quality/agent-skills.md`](../quality/agent-skills.md) — Agent Skills for UI craft, motion, and anti-slop.
 
 ## Quick start
 
@@ -18,6 +19,7 @@ This section defines how the frontend is organized using **Feature-Sliced Design
 2. Read [`layers.md`](layers.md) to understand where a new file belongs.
 3. Read [`import-rules.md`](import-rules.md) before adding any import.
 4. Read [`ui-patterns.md`](ui-patterns.md) before writing UI code.
+5. Apply the Agent Skills in [`../quality/agent-skills.md`](../quality/agent-skills.md) when the work is visual or motion-related.
 
 ## Core principle
 
