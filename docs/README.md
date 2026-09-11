@@ -8,7 +8,7 @@ This directory is the single source of truth for how this project is built, orga
 - [`frontend/`](frontend/README.md) — Feature-Sliced Design (FSD) conventions.
 - [`backend/`](backend/README.md) — Domain-Driven Design (DDD) layered conventions.
 - [`operations/`](operations/README.md) — local development, CI/CD, and deployment.
-- [`quality/`](quality/README.md) — testing strategy and code-review expectations.
+- [`quality/`](quality/README.md) — testing strategy, code-review expectations, and Agent Skills.
 - [`decisions/`](decisions/README.md) — architecture decision records (ADRs).
 
 ## How to use this documentation

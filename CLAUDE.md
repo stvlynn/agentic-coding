@@ -31,6 +31,7 @@
 - [`docs/frontend/public-api.md`](docs/frontend/public-api.md) — public API and re-export rules.
 - [`docs/frontend/import-rules.md`](docs/frontend/import-rules.md) — cross-layer and cross-slice import rules.
 - [`docs/frontend/ui-patterns.md`](docs/frontend/ui-patterns.md) — semantic styling, no hardcoded copy, no redundant copy.
+- [`docs/quality/agent-skills.md`](docs/quality/agent-skills.md) — Agent Skills for UI craft, motion, and anti-slop. Apply them when writing or reviewing UI.
 
 ### Write backend code
 
@@ -47,6 +48,7 @@
 
 - [`docs/operations/README.md`](docs/operations/README.md) — local development, CI/CD, deployment.
 - [`docs/quality/README.md`](docs/quality/README.md) — testing strategy and code-review expectations.
+- [`docs/quality/agent-skills.md`](docs/quality/agent-skills.md) — installed Agent Skills (`.agents/skills/`).
 - [`docs/decisions/README.md`](docs/decisions/README.md) — architecture decision records (ADRs).
 
 ---
